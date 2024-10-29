@@ -1,4 +1,7 @@
-# Early-And-Super-Late-Update-In-Unity
+# Behavior Graph Example Project
 
-A proof of concept for adding our own systems in the Unity game loop. 
-See the full article [here](https://giannisakritidis.com/blog/Behavior-Graph-Part2/)
+The example project for my blog posts. 
+ 
+See the posts: 
+[part 1](https://giannisakritidis.com/blog/Behavior-Graph-And-Behavior-Trees-Part1/) and 
+[part 2](https://giannisakritidis.com/blog/Behavior-Graph-Part2/)
